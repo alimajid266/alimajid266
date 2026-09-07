@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=alimajid266&theme=dark&stats=true&credit=true)![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=alimajid266&theme=dark&stats=true&credit=true)
+![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=alimajid266&theme=dark&stats=true&credit=true)
